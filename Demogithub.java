@@ -2,6 +2,8 @@ class Demogithub
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Never Give-up");
+		for(int i=0;i<=10;i++){
+			System.out.println("Welcome to Pentagon space");
+		}
 	}
 }
